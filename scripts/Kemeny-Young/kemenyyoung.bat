@@ -1,2 +1,0 @@
-kemenyyoung.exe
-pause
