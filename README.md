@@ -1,5 +1,5 @@
 # Introduction
-This is the replication package for our work published by IEEE ACCESS, i.e., Xin Du, Tian Wang, Weifeng Pan, Muchou Wang, Bo Jiang, Yiming Xiang, Chunlai Chai, Jiale Wang, Chengxiang Yuan. COSPA: Identifying Key Classes in Object-Oriented Software Using Preference Aggregation. IEEE Access, vol. 9, pp. 114767-114780, 2021, doi: 10.1109/ACCESS.2021.3105475. [[PDF](#https://ieeexplore.ieee.org/document/9514899)]
+This is the replication package for our work published by IEEE ACCESS, i.e., Xin Du, Tian Wang, Weifeng Pan, Muchou Wang, Bo Jiang, Yiming Xiang, Chunlai Chai, Jiale Wang, Chengxiang Yuan. COSPA: Identifying Key Classes in Object-Oriented Software Using Preference Aggregation. IEEE Access, vol. 9, pp. 114767-114780, 2021, doi: 10.1109/ACCESS.2021.3105475. [[PDF](#)https://ieeexplore.ieee.org/document/9514899]
 
 Author Contributions: Xin Du performed the experiments and analyzed the data. Xin Du and Tian Wang wrote the paper. Weifeng Pan conceived of the idea. Other authors proofread the paper. All authors have read and approved the final manuscript.
 
